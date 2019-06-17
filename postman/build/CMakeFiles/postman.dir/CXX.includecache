@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././include/BFS.h
+iostream
+-
+queue
+-
+string
+-
+vector
+-
+iomanip
+-
+cstdio
+-
+cstring
+-
+
+.././include/TSP.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/dbiv-2/coding/postman/main.cpp
+iostream
+-
+TSP.h
+-
+BFS.h
+-
+vector
+-
+string
+-
+

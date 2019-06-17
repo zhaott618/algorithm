@@ -1,0 +1,3 @@
+/home/dbiv-2/coding/postman/build/CMakeFiles/edit_cache.dir
+/home/dbiv-2/coding/postman/build/CMakeFiles/rebuild_cache.dir
+/home/dbiv-2/coding/postman/build/CMakeFiles/postman.dir
